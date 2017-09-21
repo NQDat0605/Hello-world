@@ -1,2 +1,5 @@
 # Hello-world
-just another repository
+
+Hello there!!!
+
+This is the message to all dev out there, keep fighting and creating!!!!!!!
